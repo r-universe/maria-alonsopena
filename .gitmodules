@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "NPCirc"]
+	path = NPCirc
+	url = https://github.com/cran/NPCirc
 [submodule "pgKDEsphere"]
 	path = pgKDEsphere
 	url = https://github.com/cran/pgKDEsphere
